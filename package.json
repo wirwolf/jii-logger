@@ -1,0 +1,31 @@
+{
+  "name": "jii-logger",
+  "version": "1.0.0",
+  "description": "jii logger component",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wirwolf/jii-logger.git"
+  },
+  "keywords": [
+    "jii",
+    "logger",
+    "framework",
+    "javascript"
+  ],
+  "author": "wir_wolf",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/wirwolf/jii-logger/issues"
+  },
+  "homepage": "https://github.com/wirwolf/jii-logger#readme",
+  "dependencies": {
+    "winston": "^1.0.2"
+  },
+  "devDependencies": {
+    "nodeunit": "^0.9.0"
+  }
+}
